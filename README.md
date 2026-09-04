@@ -1,10 +1,14 @@
 # 接口
 多线路  
 https://tvbox-interface.pages.dev/index.json  
-https://tvbox-interface.jxjs888666.top/index.json  
+
 多仓库  
 https://tvbox-interface.pages.dev/duo.txt  
-https://tvbox-interface.jxjs888666.top/duo.txt    
+
+单线路文件  
+https://tvbox-interface.pages.dev/单线路.txt  
+
+
 
 
 # GitHub 使用 Pages 访问 TVBox 接口

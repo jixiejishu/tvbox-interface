@@ -1,0 +1,17 @@
+//来自于网络收集。如果有需要可以自行复制 ，Github的几个接口借用了jsdelivr加速
+
+{ "storeHouse": [
+{"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
+{"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用gh加速🔩","sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用饭太加速🔩","sourceUrl": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt "},
+{"sourceName": "🔩常用酷云🔩","sourceUrl": "https://fastlink.cokey.xyz/f/RNBYso/T&S.txt"},
+{"sourceName": "🌹欧歌主仓库🌹","sourceUrl": "https://xn.v.nxog.top/nxog/oua.php"},
+{"sourceName": "🌹欧歌备1仓库🌹","sourceUrl": "https://by1.430520.xyz"},
+{"sourceName": "🌷欧歌备2仓库🌷","sourceUrl": "https://by2.nxog.eu.org"},
+{"sourceName": "☘️欧歌本地多线路☘️","sourceUrl": "clan://localhost/tvbox/dc.txt"},
+{"sourceName": "☘️匿名单仓☘️","sourceUrl": "https://12586.kstore.space/123.txt"}
+
+
+]}

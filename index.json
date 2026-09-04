@@ -1,0 +1,57 @@
+//来自于网络收集。如果有需要可以自行复制 
+
+{"urls": [
+//QQ群 导航
+//检测软件签名会崩溃{"url": "http://www.饭太硬.cc/tv ","name": "🌳常┃饭太硬1"},
+//检测软件签名会崩溃{"url": "http://www.饭太硬.net/tv ","name": "🌳常┃饭太硬2"},
+//检测软件签名会崩溃{"url": "http://www.饭太硬.art/tv  ","name": "🌳常┃饭太硬备0"},
+//检测软件签名会崩溃{"url": "http://fty.xxooo.cf/tv ","name": "🌳常┃饭太硬备1"},
+//检测软件签名会崩溃{"url": "http://fty.888484.xyz/tv  ","name": "🌳常┃饭太硬备2"},
+//检测软件签名会崩溃{"url": "http://fty.333232.xyz/tv ","name": "🌳常┃饭太硬备3"},
+{"url": "http://肥猫.net/tv ","name": "🌳常┃肥猫宝贝"},
+{"url": "http://hello.肥猫.net ","name": "🌳常┃肥猫/备1"},
+{"url": "https://w.junce.dpdns.org/fm.gif ","name": "🌳常┃肥猫/备2"},
+{"url": "https://z.qiqiv.cn/666 ","name": "🌳常┃奇奇戏曲"},
+{"url": "http://ai.王二小放牛娃.top/ ","name": "🌳常┃王小二"},
+{"url": "http://new.王二小放牛娃.top ","name": "🌳常┃王小二备1"},
+{"url": "http://new.999888123.xyz ","name": "🌳常┃王小二备2"},
+{"url": "https://9280.kstore.vip/aiwex.json ","name": "🌳常┃王二凯速"},
+{"url": "https://摸鱼儿.cc/ ","name": "🌳常┃摸鱼"},
+{"url": "http://我不是.摸鱼儿.cc/ ","name": "🌳常┃摸鱼备"},
+{"url": "https://www.小不点.com/ ","name": "🌳常┃摸鱼备2"},
+{"url": "http://www.英格里希嗷呜.top/tv  ","name": "🌳常┃嗷呜"},
+{"url": "http://itv666.cc/aowu/config.webp ","name": "🌳常┃嗷呜备1"},
+{"url": "https://9763.kstore.vip/aowu.json ","name": "🌳常┃嗷呜凯速"},
+{"url": "https://xn.v.nxog.top/m ","name": "🌳常┃欧歌"},
+{"url": "https://9877.kstore.space/one.json ","name": "🌳常┃潇洒"},
+//github 项目
+//https://gh-proxy.com/ 
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G┃高天流云"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G┃南风"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G┃香雅情"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G┃多多在线"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G┃裤老"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G┃maflya"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G┃小米"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G┃奇奇少儿频道"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G┃海豚常规"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G┃海豚鱼壳"},
+
+//https://gh.xxooo.cf/
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json ","name": "G备1┃高天流云"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json ","name": "G备1┃南风"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json ","name": "G备1┃香雅情"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin ","name": "G备1┃多多在线"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg ","name": "G备1┃裤老"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2 ","name": "G备1┃maflya"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json ","name": "G备1┃小米"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json ","name": "G备1┃奇奇少儿频道"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚常规22 ","name": "G备1┃海豚常规"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚常规23 ","name": "G备1┃海豚鱼壳"},
+
+
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB"},
+{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zbzx.json ","name": "ZB备"},
+{"url": "https://gitlab.com/jixiejishu/zytzx/-/raw/main/zbzx.json ","name": "ZB gitlab"}
+
+]}

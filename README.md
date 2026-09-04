@@ -1,3 +1,12 @@
+# 接口
+多线路  
+https://tvbox-interface.pages.dev/index.json  
+https://tvbox-interface.jxjs888666.top/index.json  
+多仓库  
+https://tvbox-interface.pages.dev/duo.txt  
+https://tvbox-interface.jxjs888666.top/duo.txt    
+
+
 # GitHub 使用 Pages 访问 TVBox 接口
 
 > 缺点：会使用免费的 100G 流量
@@ -61,7 +70,12 @@
 ## 三、 接口使用
 
 1. 部署完成后，Cloudflare 会生成一个以 `.pages.dev` 结尾的免费默认域名。
-2. 复制该域名（如果项目需要特定路径，请加上对应的路由，如 `https://xxx.pages.dev/api`）。
+2. 最终接口地址是  
+https://xxx.pages.dev/api （必须加上文件名.扩展名）
+例如https://xxx.pages.dev/index.json  
 3. 打开 TVBox 或影视仓客户端，进入设置 -> 配置地址，将该链接填入即可。
+其他文件调用就是路径/文件路径/文件名.扩展名  
 
-> **注意**：如果不使用 GitHub 上的项目，也可以直接把本地包上传上去，首页可能也需要设置成 `index.json` 或 `tv.json`。
+
+## 四、 绑定域名
+默认绑定域名无法使用，因为cloudfire有安全验证，无法直接调用。  

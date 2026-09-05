@@ -39,6 +39,7 @@ https://tvbox-interface.pages.dev/单线路.txt
 3. 在 **Build and deployment** 下方的 **GitHub Pages Jekyll** 选择 **Config**。点击右上角 **Commit changes**。
    弹出界面选择 **Commit changes**，点击左上角返回两次回到 **Settings** -> **Pages**。
 4. 在 **Build and deployment** 下方的 **Static HTML** 选择 **Config**。点击右上角 **Commit changes**。
+   弹出界面选择 **Commit changes**，点击左上角返回两次回到 **Settings** -> **Pages**。
 5. 点击左上角 **code** 返回主界面。
 
 ## 步骤 4：获取并使用接口链接

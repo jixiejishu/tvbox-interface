@@ -1,13 +1,3 @@
-# 接口
-多线路  
-https://tvbox-interface.pages.dev/index.json  
-
-多仓库  
-https://tvbox-interface.pages.dev/duo.txt  
-
-单线路文件  
-https://tvbox-interface.pages.dev/单线路.txt  
-
 
 
 
@@ -56,6 +46,10 @@ https://tvbox-interface.pages.dev/单线路.txt
 ---
 
 # Cloudflare Pages 部署 TVBox 接口步骤
+
+缺点   
+cloudfire 每日 10万次点击。会大量消耗点击量  
+每次修改会消耗部署次数，每个月500次  
 
 ## 一、 准备工作
 
